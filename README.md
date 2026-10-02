@@ -1,14 +1,14 @@
-# 🏎️ Monoposto Championship Manager
+# 🏁 GridHQ Championship Manager
 
 A lightweight Android championship management app for players who want to create, manage, and track their own racing championships.
 
-Monoposto Championship Manager makes it easy to keep track of race results, driver standings, points, and championship progress directly from your Android device.
+GridHQ Championship Manager makes it easy to keep track of race results, driver standings, points, and championship progress directly from your Android device.
 
 ---
 
 ## 🏁 About
 
-Monoposto Championship Manager was created as a simple companion app for managing custom racing championships.
+GridHQ Championship Manager was created as a simple companion app for managing custom racing championships.
 
 Instead of manually calculating championship points after every race, the app helps organize the season and keep everything in one place.
 
@@ -36,7 +36,7 @@ Instead of manually calculating championship points after every race, the app he
 3. Open the downloaded APK on your Android device.
 4. If Android asks for permission, enable **Install unknown apps** for your browser/file manager.
 5. Tap **Install**.
-6. Open Monoposto Championship Manager and start your championship!
+6. Open GridHQ Championship Manager and start your championship!
 
 > Android may display a warning because the APK is distributed outside the Google Play Store.
 
@@ -44,7 +44,7 @@ Instead of manually calculating championship points after every race, the app he
 
 ## 🎮 How to Use
 
-1. Open **Monoposto Championship Manager**.
+1. Open **GridHQ Championship Manager**.
 2. Set up your championship.
 3. Add or select the participating drivers.
 4. Enter the results after each race.
@@ -93,9 +93,9 @@ Open an **Issue** on this repository and describe the problem or suggestion.
 
 ## 📜 Disclaimer
 
-Monoposto Championship Manager is an independent fan-made project.
+GridHQ Championship Manager is an independent fan-made project.
 
-It is not affiliated with, endorsed by, or officially connected to Monoposto, its developers, Formula 1, the FIA, or any other racing organization.
+It is not affiliated with, endorsed by, or officially connected to any racing organization, Formula 1, the FIA, or any other motorsport body.
 
 All trademarks belong to their respective owners.
 
